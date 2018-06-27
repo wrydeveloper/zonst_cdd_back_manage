@@ -1,0 +1,9 @@
+db.sqlite3
+local_settings.py
+logs/
+venv/
+env/
+.idea/
+__pycache__/
+*.py[co]
+*.json
